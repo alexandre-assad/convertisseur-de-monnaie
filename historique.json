@@ -1,0 +1,202 @@
+{
+    "historique": [
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "euro",
+            "amountConverted": 7.4766355140186915
+        },
+        {
+            "amount": 82,
+            "fromDevice": "peso",
+            "toDevice": "euro",
+            "amountConverted": 3.8317757009345796
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "dollar",
+            "amountConverted": 8.56
+        },
+        {
+            "amount": 8,
+            "fromDevice": "peso",
+            "toDevice": "dollar",
+            "amountConverted": 0.4
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 160.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "dollar",
+            "amountConverted": 8.0
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "euro",
+            "amountConverted": 7.4766355140186915
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "euro",
+            "amountConverted": 7.4766355140186915
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "euro",
+            "amountConverted": 7.4766355140186915
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "euro",
+            "amountConverted": 7.4766355140186915
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "peso",
+            "amountConverted": 171.2
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "peso",
+            "amountConverted": 171.2
+        },
+        {
+            "amount": 8,
+            "fromDevice": "euro",
+            "toDevice": "peso",
+            "amountConverted": 171.2
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "euro",
+            "amountConverted": 7.4766355140186915
+        },
+        {
+            "amount": 8,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 150.9433962264151
+        },
+        {
+            "amount": 1,
+            "fromDevice": "dollar",
+            "toDevice": "peso",
+            "amountConverted": 18.867924528301888
+        },
+        {
+            "amount": 1,
+            "fromDevice": "bubu",
+            "toDevice": "peso",
+            "amountConverted": 2498.11320754717
+        },
+        {
+            "amount": 8,
+            "fromDevice": "peso",
+            "toDevice": "yen",
+            "amountConverted": 56.53333333333333
+        },
+        {
+            "amount": 1,
+            "fromDevice": "bitcoin",
+            "toDevice": "peso",
+            "amountConverted": 466275.4716981132
+        }
+    ]
+}
