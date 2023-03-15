@@ -49,7 +49,7 @@ def convert():
         database(int(valeur),menu1.get(),menu2.get(),change)
         error.config(fg="grey")
     except:
-        error.config(text="Une Erreur s'est produite lors de la conversion, vérifiez la valeur donnée et que toutes les devises soient sélectionnées",fg="red")
+        error.config(text="Erreur, vérifiez la valeur donnée et les devises",fg="red")
         clear()
 
 def addMonnaie():
@@ -114,6 +114,6 @@ newcurrencyvalueEntry = Entry(frame)
 newcurrencyvalueEntry.grid(column=1,row=7)
 newcurrencyButton =Button(frame, text="Add New Currency",font=("Arial",10),width=15, background="blue",fg="white",command=addMonnaie)
 newcurrencyButton.grid(column=0,row=8)
-error = Label(frame,text="Une Erreur s'est produite lors de la conversion, vérifiez la valeur donnée et que toutes les devises soient sélectionnées",font=("Arial",10),fg="grey",background="grey")
+error = Label(frame,text="Erreur",font=("Arial",10),fg="grey",background="grey")
 error.grid(column=0,row=9)
 fenetre.mainloop()
